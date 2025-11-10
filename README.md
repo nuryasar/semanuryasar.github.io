@@ -13,14 +13,7 @@
   <!-- Open Graph / Twitter -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Kurucunun Notları | Sema Nur Yaşar" />
-  <meta property="og:description" content="Bilim Meclisleri'nin kurucusundan notlar: öğrenme, topluluk, hukuk ve yazılım üzerine." />
-  <meta property="og:url" content="https://example.com/" />
-  <meta property="og:image" content="https://example.com/og-cover.jpg" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Kurucunun Notları | Sema Nur Yaşar" />
-  <meta name="twitter:description" content="Bilim Meclisleri'nin kurucusundan notlar: öğrenme, topluluk, hukuk ve yazılım üzerine." />
-  <meta name="twitter:image" content="https://example.com/og-cover.jpg" />
-
+  <meta property="og:description" content="Bilim Meclisleri'nin kurucusundan notları" />
   <!-- Minimal, self-contained CSS (no external deps to preview anywhere) -->
   <style>
     :root{--bg:#0b0d10;--panel:#11151b;--ink:#e8eef8;--muted:#a8b3c7;--accent:#6ea8fe;--accent2:#7ee787;--chip:#202734}
@@ -58,14 +51,11 @@
   <!-- Structured Data: Person + Blog + Organization + Article -->
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": "Person",
+    
     "name": "Sema Nur Yaşar",
-    "givenName": "Sema Nur",
-    "familyName": "Yaşar",
+    
     "jobTitle": "Kurucu, Bilim Meclisleri; 
-    "url": "https://example.com/",
-    "sameAs": [
+    
       "https://www.linkedin.com/in/nur-ya%C5%9Far-6221b5243/",
       "https://www.instagram.com/semanuryasar__"
     ]
@@ -73,21 +63,17 @@
   </script>
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"Organization",
-    "name":"Bilim Meclisleri",
-    "url":"https://example.com/bilim-meclisleri",
+   
     "founder":"Sema Nur Yaşar",
     "description":"Gençler için bilim, üretim ve topluluk ekosistemi.",
-    "logo":"https://example.com/logo.png"
+    
   }
   </script>
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"Blog",
+
     "name":"Kurucunun Notları",
-    "url":"https://example.com/",
+    
     "publisher":{
       "@type":"Person",
       "name":"Sema Nur Yaşar"
@@ -211,21 +197,17 @@
           <summary>robots.txt ve sitemap örnekleri</summary>
           <pre>/* robots.txt */
 User-agent: *
-Allow: /
-Sitemap: https://example.com/sitemap.xml
+
 
 /* sitemap.xml */
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://example.com/</loc>
     <lastmod>2025-11-08</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/kurulus-hikayesi</loc>
-    <lastmod>2025-11-08</lastmod>
-    <priority>0.8</priority>
   </url>
 </urlset></pre>
         </details>
