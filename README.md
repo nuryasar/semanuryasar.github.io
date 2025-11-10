@@ -5,13 +5,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Kurucunun Notları | Sema Nur Yaşar — Bilim Meclisleri'nin Kurucusundan</title>
-  <meta name="description" content="Sema Nur Yaşar'ın kişisel blogu: Bilim Meclisleri'nin kuruluş hikâyesi, gençlik ve bilim girişimleri, hukuk ve yazılım yolculuğu, notlar ve dersler." />
+  <meta name="description" content="Sema Nur Yaşar'ın kişisel blogu: Bilim Meclisleri'nin kuruluş hikâyesi" />
   <meta name="author" content="Sema Nur Yaşar" />
-  <link rel="canonical" href="https://example.com/" />
-  <meta name="robots" content="index,follow" />
+
+
 
   <!-- Open Graph / Twitter -->
-  <meta property="og:type" content="website" />
+
   <meta property="og:title" content="Kurucunun Notları | Sema Nur Yaşar" />
   <meta property="og:description" content="Bilim Meclisleri'nin kurucusundan notları" />
   <!-- Minimal, self-contained CSS (no external deps to preview anywhere) -->
@@ -203,11 +203,6 @@ User-agent: *
 <?xml version="1.0" encoding="UTF-8"?>
 
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2025-11-08</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
   </url>
 </urlset></pre>
         </details>
@@ -217,7 +212,7 @@ User-agent: *
   </main>
 
   <footer class="container">
-    <small>© 2025 Sema Nur Yaşar · Kurucunun Notları</small>
+    <small>© 10.11.2025 Sema Nur Yaşar · Kurucunun Notları</small>
   </footer>
 </body>
 </html>
