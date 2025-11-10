@@ -63,10 +63,10 @@
     "name": "Sema Nur Yaşar",
     "givenName": "Sema Nur",
     "familyName": "Yaşar",
-    "jobTitle": "Kurucu, Bilim Meclisleri; Hukuk öğrencisi; Sağlık teknisyeni; Yazılım meraklısı",
+    "jobTitle": "Kurucu, Bilim Meclisleri; 
     "url": "https://example.com/",
     "sameAs": [
-      "https://www.linkedin.com/in/semanuryasar",
+      "https://www.linkedin.com/in/nur-ya%C5%9Far-6221b5243/",
       "https://www.instagram.com/semanuryasar__"
     ]
   }
@@ -114,7 +114,8 @@
     <section class="hero">
       <p class="kicker">Sema Nur Yaşar</p>
       <h1>Bilim Meclisleri'nin kurucusundan notlar</h1>
-      <p>Bu tek-dosyalık blogda; <strong>Bilim Meclisleri</strong>'nin kuruluş hikâyesi, topluluk kurma deneyimleri, <em>hukuk</em> ve <em>yazılım</em> yolculuğum ile kişisel derslerimi paylaşıyorum.</p>
+      <p>Bu tek-dosyalık blogda; <strong>Bilim Meclisleri</strong>'nin kuruluş hikâyesi, topluluk kurma deneyimleri, 
+        yolculuğum ile kişisel derslerimi paylaşıyorum.</p>
     </section>
 
     <section id="blog" class="grid" aria-label="Blog yazıları">
@@ -171,8 +172,7 @@
         <h2>Hakkımda</h2>
         <p>Merhaba, ben <strong>Sema Nur Yaşar</strong>. Bilim Meclisleri'nin kurucusuyum. Hedefim, gençlerin <em>bilim ve üretim</em>le buluştuğu kalıcı alanlar kurmak.</p>
         <ul class="list">
-          <li><span class="chip">Topluluk Tasarımı</span> <span class="chip">Hukuk &amp; Teknoloji</span> <span class="chip">Eğitim Tasarımı</span></li>
-        </ul>
+         
       </div>
     </section>
 
@@ -181,8 +181,7 @@
         <h2>Öne Çıkan Projeler</h2>
         <ul class="list">
           <li><strong>Bilim Meclisleri</strong> — Gençler için üretim odaklı bilim topluluğu.</li>
-          <li><strong>loveeverydayofyourself</strong> — Zamanı-kendine ayırma farkındalığı aracı.</li>
-          <li><strong>StoryCreative</strong> — Python tabanlı hikâye üreteci.</li>
+          
         </ul>
       </div>
     </section>
@@ -190,10 +189,7 @@
     <section id="iletisim" class="grid" aria-label="İletişim">
       <div class="card">
         <h2>İletişim</h2>
-        <p>E-posta: <a href="mailto:nur.sema.yasar@gmail.com">nur.sema.yasar@gmail.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/semanuryasar" rel="me">linkedin.com/in/semanuryasar</a></p>
-        <p>Instagram: <a href="https://www.instagram.com/semanuryasar" rel="me">@semanuryasar</a></p>
-        <p><a class="btn" href="#blog">Yeni yazıları oku</a></p>
+    
       </div>
     </section>
 
