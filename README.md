@@ -67,7 +67,7 @@
     "url": "https://example.com/",
     "sameAs": [
       "https://www.linkedin.com/in/semanuryasar",
-      "https://www.instagram.com/semanuryasar"
+      "https://www.instagram.com/semanuryasar__"
     ]
   }
   </script>
